@@ -29,7 +29,7 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">About Paddy</h3>
           <p>
-          <strong>{author}</strong> who lives and works in Dublin building useful things. 
+          <strong>Paddy</strong> who lives and works in Dublin building useful things. 
             Paddy is CTO of Nutriband Inc, CEO and Founder of Run Republic, CEO and Founder of AMV, and 
             CTO and Co-Founder of Trigger Media. 
           

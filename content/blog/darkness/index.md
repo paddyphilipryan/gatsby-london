@@ -1,8 +1,8 @@
 ---
-title: Darkness
-date: "2019-05-08"
+title: Making Local Media Great Again
+date: "2021-06-06"
 thumbnail: ./bbbb.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description: Outdated business models will see death of local media publications within 5 years.
 ---
 
 ### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)

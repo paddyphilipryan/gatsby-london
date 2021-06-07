@@ -25,10 +25,9 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Written by <strong>{author}</strong> who lives and works in Dublin building useful things. Paddy is CTO of Nutriband Inc, CEO and Founder of Run Republic, CEO and Founder of AMV, and CTO and Co-Founder of Trigger Media. With a wealth of knowledge in the digital space, if you have questions on a project, please reach out to me@paddyryan.com
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              <a href={`https://twitter.com/paddyphilipryan`}>
                 You should follow him on Twitter
               </a>
             </p>

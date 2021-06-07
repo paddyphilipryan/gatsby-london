@@ -45,12 +45,12 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com/paddyphilipryan"
-                title="Facebook"
+                href="https://www.instagram.com/paddyphilipryan"
+                title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Instagram
               </a>
               <a
                 href="https://twitter.com/paddyphilipryan"
@@ -60,14 +60,14 @@ const Layout = props => {
               >
                 Twitter
               </a>
-              <Link
+              <a
                 href="https://triggermedia.ie"
                 title="Trigger"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Trigger Media
-              </Link>
+                Twitter
+              </a>
             </div>
           </div>
         </div>

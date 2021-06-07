@@ -1,13 +1,13 @@
 ---
 title: Making Local Media Great Again
 date: "2021-06-06"
-thumbnail: ./bbbb.jpg
+thumbnail: ./BLACK_I_desktop-1.jpg
 description: Outdated business models will see death of local media publications within 5 years.
 ---
 
 ### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
 
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
+While this is my first musing into Gatsby and everything, I rather enjoy it. Thanks Ro for introducing me to this. I'll start building out my UOM Manifesto here
 
 This is the final render.
 

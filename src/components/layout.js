@@ -45,7 +45,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/paddyphilipryan"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ const Layout = props => {
                 Facebook
               </a>
               <a
-                href="https://twitter.com"
+                href="https://twitter.com/paddyphilipryan"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -61,12 +61,12 @@ const Layout = props => {
                 Twitter
               </a>
               <Link
-                to={`/rss.xml`}
-                title="RSS"
+                href="https://triggermedia.ie"
+                title="Trigger"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
+                Trigger Media
               </Link>
             </div>
           </div>

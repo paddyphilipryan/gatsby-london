@@ -18,25 +18,24 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Driven by a desire to look at problem's differently, we strive to disrupt local media, and make it sustainable long into the future.
+          Driven by a desire to look at problem's differently, we strive to disrupt local media, and make it sustainable long into the future.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Collaboration is at the heart of what we do</figcaption>
+            <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">About Paddy</h3>
+          <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
-          <strong>Paddy Ryan</strong> who lives and works in Dublin building useful things. 
-            Paddy is CTO of Nutriband Inc, CEO and Founder of Run Republic, CEO and Founder of AMV, and 
-            CTO and Co-Founder of Trigger Media. 
-          
+            London comes with photo-centric main layout best suited to
+            photography, graphics portfolios and other image-heavy uses.
           </p>
           <p>
-          With a wealth of knowledge in the digital space, if you have questions on a project, please reach out to me@paddyryan.com
-          {" "}
+            Both post and page templates are light and minimal, with all the
+            focus on the content while the design of the theme gets out of the
+            way. Beneath the hood, London enjoys the full power of the{" "}
             <a href="https://docs.ghost.org/api/handlebars-themes/">
               Ghost Handlebars Theme API
             </a>{" "}
